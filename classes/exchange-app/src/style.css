@@ -102,3 +102,9 @@ nav[data-navbar] {
   display: flex;
   justify-content: center;
 }
+
+.loading-animation {
+  width: 80px;
+  height: 80px;
+  background: yellow;
+}

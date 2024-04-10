@@ -1,0 +1,4 @@
+Sort currencies (USD, EUR first)
+Nice loading animation
+Nice html layout
+Currencies singletone
